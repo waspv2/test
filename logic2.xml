@@ -1,0 +1,13 @@
+<context>
+<input pattern="(Hola |:v | Buenas) *">
+	<output value="Hola! ¿Qué quieres hacer?">
+
+	<context>
+		<sample>
+			<item>Builds</item>
+			<item>Meta</item>
+			<item>Parche</item>
+		</sample>
+	</context>
+</input>
+</context>
